@@ -1,11 +1,6 @@
 ### Hi 👋 I'm Daniel Bajik.
 
-Data Science bootcamp Teacher at <p align="center">
-  <a href="https://www.lewagon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/>
-  </a>
-  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/>
-</p> 
+Data Science bootcamp Teacher at <p align="center"> <a href="https://www.lewagon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/> </a></p> 
 
 | Backend |   ML          |  Python    |  Database   |
 |---------|---------------|------------|-------------|
