@@ -16,7 +16,7 @@ Adept at adapting to new environments and eager to utilize my skills to drive th
 
 | Backend |   ML          |  Python    |  Database   |
 |---------|---------------|------------|-------------|
-| Flask <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Backend1" width="30" height="30"/></p> | TensorFlow    | Pandas     | MySQL       |
+| Flask <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Backend1" width="30" height="30"/></p> | TensorFlow <p align="center"><img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="Backend1" width="30" height="30"/></p>   | Pandas     | MySQL       |
 | FastAPI <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="Backend1" width="30" height="30"/></p>   | Keras         | Numpy      | PostgreSQL  | 
 |         | PyTorch       | MatplotLib |             |
 |         | OpenCV        | Seaborn    |             |
