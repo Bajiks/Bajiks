@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Daniel Bajik.
 
-Former Accountant, evolved into an adaptable and analytical Data Scientist (maybe a Python Backend Developer too). 
+Adaptable and analytical Data Scientist (maybe a Python Backend Developer too). 
 
 Enjoying the road as a Data Science Bootcamp Teacher at <a href="https://www.lewagon.com/" target="_blank"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/></a>
 
