@@ -10,7 +10,7 @@ Passionate about utilizing data to deliver smart, scalable technology solutions.
 
 With an eye for detail and a focus on the bigger picture, I'm eager to join diverse, purpose-driven teams to help clients navigate their innovation journey successfully. 
 
-Enjoying the discovery of new environments and eager to utilize my skills to drive the growth companies and it clients.
+Enjoying the discovery of new environments and eager to utilize my skills to drive the growth of companies and it clients.
 
 
 
