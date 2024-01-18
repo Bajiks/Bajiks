@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Daniel Bajik.
 
-Adaptable and analytical Data Scientist (maybe a Python Backend Developer too). 
+Adaptable and analytical Python Backend Developer and Data Enthusiast. 
 
 Enjoying the road as a Data Science Bootcamp Teacher at <a href="https://www.lewagon.com/" target="_blank"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/></a>
 
